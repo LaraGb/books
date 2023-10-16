@@ -1,0 +1,4 @@
+- [ ] The Animators Survival Kit / Manual de animação
+- [ ] Design digital: conceitos e aplicações para websites, animações, vídeos e webgames
+- [ ] Anatomia Artística
+- [ ]
