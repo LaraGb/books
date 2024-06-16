@@ -1,6 +1,5 @@
-Entendi, vamos ajustar a estrutura do README para refletir corretamente a organização do repositório no formato nome do livro / idioma / livros.
 
-```markdown
+
 # Book Repository
 
 ## Description
@@ -63,27 +62,6 @@ book-repository/
 
 Each book is stored in a folder named after the book title. Inside each book folder, there are subfolders for English and Portuguese versions containing the respective files.
 
-## Contributing
 
-We welcome contributions to this repository! If you have books to add, follow these steps:
 
-1. Fork the repository.
-2. Create a new branch: `git checkout -b my-new-book`.
-3. Add your book to the appropriate folder.
-4. Commit your changes: `git commit -m 'Add new book'`.
-5. Push to the branch: `git push origin my-new-book`.
-6. Create a pull request.
-
-Please ensure that you have the right to share any books you contribute and that they are properly attributed.
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-
-If you have any questions or suggestions, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
-```
-
-Salve este conteúdo em um arquivo chamado `README.md` no seu repositório. Se precisar de mais alguma coisa, estou à disposição!
 
