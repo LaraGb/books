@@ -1,9 +1,11 @@
+Entendi, vamos ajustar a estrutura do README para refletir corretamente a organização do repositório no formato nome do livro / idioma / livros.
 
+```markdown
 # Book Repository
 
 ## Description
 
-This repository contains a collection of books in both English and Portuguese. It aims to provide a diverse range of literature for readers interested in these languages. Whether you are learning a new language or simply enjoy reading, you will find something of interest here.
+This repository contains a collection of books on Design, Robotics, and Programming, available in both English and Portuguese. It aims to provide a comprehensive resource for learners and professionals interested in these fields.
 
 ## Table of Contents
 
@@ -34,18 +36,32 @@ The repository is organized as follows:
 ```
 book-repository/
 │
-├── English/
-│   ├── Fiction/
-│   ├── Non-Fiction/
-│   └── Poetry/
+├── Book-Name-1/
+│   ├── English/
+│   │   ├── book1.pdf
+│   │   └── book2.pdf
+│   └── Portuguese/
+│       ├── livro1.pdf
+│       └── livro2.pdf
 │
-└── Portuguese/
-    ├── Ficção/
-    ├── Não-Ficção/
-    └── Poesia/
+├── Book-Name-2/
+│   ├── English/
+│   │   ├── book1.pdf
+│   │   └── book2.pdf
+│   └── Portuguese/
+│       ├── livro1.pdf
+│       └── livro2.pdf
+│
+└── Book-Name-3/
+    ├── English/
+    │   ├── book1.pdf
+    │   └── book2.pdf
+    └── Portuguese/
+        ├── livro1.pdf
+        └── livro2.pdf
 ```
 
-Each folder contains books categorized by genre. Feel free to browse and explore the books available.
+Each book is stored in a folder named after the book title. Inside each book folder, there are subfolders for English and Portuguese versions containing the respective files.
 
 ## Contributing
 
@@ -59,4 +75,15 @@ We welcome contributions to this repository! If you have books to add, follow th
 6. Create a pull request.
 
 Please ensure that you have the right to share any books you contribute and that they are properly attributed.
+
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contact
+
+If you have any questions or suggestions, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
+```
+
+Salve este conteúdo em um arquivo chamado `README.md` no seu repositório. Se precisar de mais alguma coisa, estou à disposição!
 
